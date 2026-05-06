@@ -15,9 +15,6 @@ Hi, I'm Dev Kothari <br>A Full Stack Developer and AI enthusiast passionate abou
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev3306-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev3306-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=dev3306-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
