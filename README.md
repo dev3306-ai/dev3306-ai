@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](#)
-[![Upwork](https://img.shields.io/badge/Upwork-Freelance-success?style=for-the-badge&logo=upwork)](#)
 
 ---
 
