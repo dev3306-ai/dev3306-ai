@@ -1,23 +1,46 @@
-# Hi, I'm Dev Kothari 👋
+# Dev Dilip Kothari
+**Full-Stack Software Engineer & AI Specialist**
 
-**Full Stack Developer & AI enthusiast** building scalable web apps, clean user experiences, and AI-powered tools.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-Freelance-success?style=for-the-badge&logo=upwork)](#)
 
-🎓 Studying at Newton School of Technology / Rishihood University
-💼 **Open to internships and freelance work** — reach me below
-🌱 Currently exploring: AI agents, workflow automation, and scalable backend architecture
+---
 
-## 🚀 Featured Projects
-- **ShopEase** — Full-stack e-commerce app (React · Node · DB) → [Live Demo](#) · [Code](#)
-- **[AI project — coming soon]** — LangChain/LLM-powered app → [Live Demo](#) · [Code](#)
-- **Pizza Delivery Analytics** — Data dashboard in Python → [Code](https://github.com/dev3306-ai/HotBox-Analytics-Pizza-Delivery-Dashboard)
-- **NYC Airbnb Market Analysis** — Python + Tableau → [Code](https://github.com/dev3306-ai/NYC-Airbnb-Market-Analysis-Python-Tableau)
+## Professional Summary
 
-## 🛠️ Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-**Backend:** Node.js, Express, FastAPI
-**Databases:** MongoDB, PostgreSQL, MySQL, Prisma
-**AI/ML:** LangChain, LangGraph, OpenAI API, Python, Pandas, NumPy
-**Tools:** Git, GitHub Actions, Firebase, Vercel, Postman
+I am a Computer Science and Artificial Intelligence undergraduate at the **Newton School of Technology**, actively seeking software engineering internships and full-time roles. I specialize in bridging the gap between robust full-stack web development and applied artificial intelligence. With hands-on experience delivering client projects and completing rigorous industry training, I am equipped to build scalable, high-performance applications from day one.
 
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/dev-kothari-a42628323) · [Email](mailto:dev.kothari2024@nst.rishihood.edu.in)
+## Technical Skills
+
+- **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Frontend Development:** React.js, Node.js, Tailwind CSS *(Update as needed)*
+- **Backend & Databases:** Express.js, MongoDB, PostgreSQL *(Update as needed)*
+- **Artificial Intelligence:** Machine Learning fundamentals, Python data ecosystems
+- **Tools & Workflow:** Git, GitHub, RESTful APIs, VS Code
+
+## Experience & Leadership
+
+**Front End Developer Trainee** | *Innovatecloud Solutions*
+- Developed responsive, user-centric web interfaces utilizing modern frontend frameworks.
+- Translated complex design requirements into production-ready code.
+
+**Freelance Full-Stack Developer** | *Upwork*
+- Architected and deployed end-to-end web applications for independent clients.
+- Engineered a comprehensive **Local Book Store Website**, tailored specifically to client business logic and operational requirements.
+
+**Campus Ambassador** | *Technicia '25 & Kreo Marketing*
+- Spearheaded campus outreach initiatives and executed targeted marketing campaigns.
+- Fostered technical community engagement and leadership among university peers.
+
+## Education & Certifications
+
+- **B.Tech. in Computer Science and Artificial Intelligence** – *Newton School of Technology*
+- **CS50’s Introduction to Artificial Intelligence with Python** – *Harvard University (edX)*
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev3306-ai&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3306-ai&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="Top Languages" />
+</div>
