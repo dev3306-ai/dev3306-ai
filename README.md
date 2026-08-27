@@ -19,24 +19,9 @@ I am a Computer Science and Artificial Intelligence undergraduate at the **Newto
 - **Artificial Intelligence:** Machine Learning fundamentals, Python data ecosystems
 - **Tools & Workflow:** Git, GitHub, RESTful APIs, VS Code
 
-## Experience & Leadership
-
-**Front End Developer Trainee** | *Innovatecloud Solutions*
-- Developed responsive, user-centric web interfaces utilizing modern frontend frameworks.
-- Translated complex design requirements into production-ready code.
-
-**Freelance Full-Stack Developer** | *Upwork*
-- Architected and deployed end-to-end web applications for independent clients.
-- Engineered a comprehensive **Local Book Store Website**, tailored specifically to client business logic and operational requirements.
-
-**Campus Ambassador** | *Technicia '25 & Kreo Marketing*
-- Spearheaded campus outreach initiatives and executed targeted marketing campaigns.
-- Fostered technical community engagement and leadership among university peers.
-
 ## Education & Certifications
 
 - **B.Tech. in Computer Science and Artificial Intelligence** – *Newton School of Technology*
-- **CS50’s Introduction to Artificial Intelligence with Python** – *Harvard University (edX)*
 
 ## GitHub Analytics
 
